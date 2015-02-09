@@ -12,20 +12,24 @@
 	<dict>
 		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
 		<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+		<key>CB3F8EE399949F0480A800B622189C506BA360ED</key>
+		<string>https://github.com/kellyxu1981/Homework_Facebook.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Class4_facebook/Class4_facebook.xcodeproj</string>
+	<string>Class4_facebook.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
-		<string>../../..</string>
+		<string>../../../..</string>
+		<key>CB3F8EE399949F0480A800B622189C506BA360ED</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+	<string>https://github.com/kellyxu1981/Homework_Facebook.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
+	<string>CB3F8EE399949F0480A800B622189C506BA360ED</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
 			<key>IDESourceControlWCCName</key>
-			<string>2015_Jan</string>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB3F8EE399949F0480A800B622189C506BA360ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Homework_Facebook</string>
 		</dict>
 	</array>
 </dict>
