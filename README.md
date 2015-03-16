@@ -1,4 +1,4 @@
-# Facebook Login Homework
+# Facebook Login
 A facebook login system.
 
 Total time spend: 4hrs
